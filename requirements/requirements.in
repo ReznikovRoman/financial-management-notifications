@@ -1,0 +1,13 @@
+aws-lambda-powertools[aws-sdk]==2.42.0
+
+orjson==3.10.4
+python-dotenv==1.0.1
+dependency-injector==4.41.0
+
+litestar==2.10.0
+
+redis==5.0.8
+redis-om==0.3.1
+hiredis==2.4.0
+
+uvloop==0.19.0
